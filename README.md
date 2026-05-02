@@ -1,0 +1,1 @@
+# YOLOv8_RDKX5_object_pose
