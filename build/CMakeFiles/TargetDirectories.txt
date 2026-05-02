@@ -1,0 +1,3 @@
+/home/sunrise/YOLOv8_RDKX5_object_pose/build/CMakeFiles/rdkx5_yolov8_pose.dir
+/home/sunrise/YOLOv8_RDKX5_object_pose/build/CMakeFiles/edit_cache.dir
+/home/sunrise/YOLOv8_RDKX5_object_pose/build/CMakeFiles/rebuild_cache.dir
